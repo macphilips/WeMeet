@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+    <public name="WelcomeScreenButton.Next" type="style" />
+    <public name="WelcomeScreenButton.Prev" type="style" />
+    <public name="WelcomeScreenTheme.SolidNavigation" type="style" />
+    <public name="WelcomeScreenTheme.Light.SolidNavigation" type="style" />
+    <public name="WelcomeScreenTheme.SolidNavigation.UnderStatusBar" type="style" />
+    <public name="WelcomeScreenTheme.Light.SolidNavigation.UnderStatusBar" type="style" />
+    <public name="currentPageColor" type="attr" />
+    <public name="indicatorColor" type="attr" />
+    <public name="animation" type="attr" />
+    <public name="welcomeButtonBackground" type="attr" />
+    <public name="welcomeButtonNextStyle" type="attr" />
+    <public name="welcomeButtonPrevStyle" type="attr" />
+    <public name="welcomeButtonSkipStyle" type="attr" />
+    <public name="welcomeButtonDoneStyle" type="attr" />
+    <public name="welcomeButtonDoneText" type="attr" />
+    <public name="welcomeButtonSkipText" type="attr" />
+    <public name="welcomeIndicatorStyle" type="attr" />
+    <public name="welcomeDividerStyle" type="attr" />
+    <public name="welcomeNormalTextStyle" type="attr" />
+    <public name="welcomeLargeTextStyle" type="attr" />
+    <public name="welcomeTitleTextStyle" type="attr" />
+    <public name="welcomeLayoutFitsSystemWindows" type="attr" />
+    <public name="WelcomeScreenTheme" type="style" />
+    <public name="WelcomeScreenTheme.Light" type="style" />
+    <public name="WelcomeScreenText" type="style" />
+    <public name="WelcomeScreenText.Large" type="style" />
+    <public name="WelcomeScreenText.Title" type="style" />
+    <public name="WelcomeScreenText.Centered" type="style" />
+    <public name="WelcomeScreenText.Large.Centered" type="style" />
+    <public name="WelcomeScreenText.Title.Centered" type="style" />
+    <public name="WelcomeScreenButton" type="style" />
+    <public name="WelcomeScreenButton.Skip" type="style" />
+    <public name="WelcomeScreenButton.Done" type="style" />
+    <public name="WelcomeScreenPageIndicator" type="style" />
+    <public name="WelcomeScreenPageIndicator.Light" type="style" />
+    <public name="WelcomeScreenDivider" type="style" />
+    <public name="WelcomeScreenDivider.Light" type="style" />
+    <public name="WelcomeScreenDivider.Dark" type="style" />
+</resources>
