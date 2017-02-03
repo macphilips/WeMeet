@@ -1,0 +1,14 @@
+{
+  "auth": {
+    "username": "foo@example.com",
+    "code": 200,
+    "description": "Authentication Successful"
+  },
+  "profile": {
+    "username": "@macphilips",
+    "first_name": "Titilope",
+    "last_name": "Morolari",
+    "image_url": "user.jpg",
+    "status": "Mobile Developer"
+  }
+}

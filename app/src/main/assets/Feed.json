@@ -1,0 +1,238 @@
+{
+  "feed": [
+    {
+      "user": {
+        "username": "user1",
+        "first_name": "Alice",
+        "last_name": "Davis",
+        "image_url": "user1.jpg",
+        "status": "Web Developer"
+      },
+      "comments": {
+        "no_of_comments": 243,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 1113,
+        "like": []
+      },
+      "post_image_url": "post1.jpg",
+      "shared": {
+        "no_of_shared": 12,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 2
+    },
+    {
+      "user": {
+        "username": "user1",
+        "first_name": "Alice",
+        "last_name": "Davis",
+        "image_url": "user1.jpg",
+        "status": "Web Developer"
+      },
+      "comments": {
+        "no_of_comments": 243,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 1113,
+        "like": []
+      },
+      "post_image_url": "post2.jpg",
+      "shared": {
+        "no_of_shared": 12,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 2
+    },
+    {
+      "user": {
+        "username": "user2",
+        "first_name": "Derick",
+        "last_name": "Rose",
+        "image_url": "user2.jpg",
+        "status": "NBA Player"
+      },
+      "comments": {
+        "no_of_comments": 120,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 113,
+        "like": []
+      },
+      "post_image_url": "post3.jpg",
+      "shared": {
+        "no_of_shared": 23,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": false,
+      "has_commented": false,
+      "post_time": 5
+    },
+    {
+      "user": {
+        "username": "user2",
+        "first_name": "Derick",
+        "last_name": "Rose",
+        "image_url": "user2.jpg",
+        "status": "NBA Player"
+      },
+      "comments": {
+        "no_of_comments": 150,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 813,
+        "like": []
+      },
+      "post_image_url": "post4.jpg",
+      "shared": {
+        "no_of_shared": 93,
+        "share": []
+      },
+      "has_shared": true,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 7
+    },
+    {
+      "user": {
+        "username": "user1",
+        "first_name": "Alice",
+        "last_name": "Davis",
+        "image_url": "user1.jpg",
+        "status": "Web Developer"
+      },
+      "comments": {
+        "no_of_comments": 243,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 1113,
+        "like": []
+      },
+      "post_image_url": "post5.jpg",
+      "shared": {
+        "no_of_shared": 12,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 2
+    },
+    {
+      "user": {
+        "username": "user3",
+        "first_name": "Mike",
+        "last_name": "Ross",
+        "image_url": "user3.jpg",
+        "status": "Lawyer"
+      },
+      "comments": {
+        "no_of_comments": 540,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 321,
+        "like": []
+      },
+      "post_image_url": "post6.jpg",
+      "shared": {
+        "no_of_shared": 77,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 8
+    },
+    {
+      "user": {
+        "username": "user2",
+        "first_name": "Derick",
+        "last_name": "Rose",
+        "image_url": "user2.jpg",
+        "status": "NBA Player"
+      },
+      "comments": {
+        "no_of_comments": 548,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 8974,
+        "like": []
+      },
+      "post_image_url": "post7.jpg",
+      "shared": {
+        "no_of_shared": 66,
+        "share": []
+      },
+      "has_shared": true,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 2
+    },
+    {
+      "user": {
+        "username": "user4",
+        "first_name": "Steve",
+        "last_name": "Jobs",
+        "image_url": "user4.jpg",
+        "status": "Entrepreneur"
+      },
+      "comments": {
+        "no_of_comments": 69,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 7857,
+        "like": []
+      },
+      "post_image_url": "post8.jpg",
+      "shared": {
+        "no_of_shared": 88,
+        "share": []
+      },
+      "has_shared": false,
+      "has_liked": false,
+      "has_commented": false,
+      "post_time": 2
+    },
+    {
+      "user": {
+        "username": "user3",
+        "first_name": "Mike",
+        "last_name": "Ross",
+        "image_url": "user3.jpg",
+        "status": "Lawyer"
+      },
+      "comments": {
+        "no_of_comments": 677,
+        "comment": []
+      },
+      "likes": {
+        "no_of_likes": 888,
+        "like": []
+      },
+      "post_image_url": "post9.jpg",
+      "shared": {
+        "no_of_shared": 34,
+        "share": []
+      },
+      "has_shared": true,
+      "has_liked": true,
+      "has_commented": false,
+      "post_time": 1
+    }
+  ]
+}
